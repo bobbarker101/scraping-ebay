@@ -1,0 +1,2 @@
+scrapy crawl ebay -o products.csv -a search="Xbox one X"
+crapy crawl ebay -o products.json -a search="Xbox one X"
